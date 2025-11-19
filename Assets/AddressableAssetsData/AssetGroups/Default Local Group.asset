@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e1c1ffeff02ab2b43ac44751b0c6c695
+  m_SerializeEntries:
+  - m_GUID: 09bc2416d9d3f2f408aa24b6a0b0e146
+    m_Address: Assets/Assets/ScriptableObjects/Attack_2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d851c5ffa7eb8d4b8f9edaeedaac247
+    m_Address: Assets/Assets/ScriptableObjects/Idle_3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a62f46f2d9bccf47a3e40321020d7d6
+    m_Address: Assets/Assets/Sprites/UI/icons/Archer2_Icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53f92cb43105f2f4897588f22a880330
+    m_Address: Assets/Assets/Sprites/UI/Card_Background_Active.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57c664b45a95d844eaceb100c873a799
+    m_Address: Assets/Assets/ScriptableObjects/Idle_1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8dbbe457c503bc642891909422260895
+    m_Address: Assets/Assets/Sprites/Towers/Tower_2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96eadaeaba52448b0af67fb9d5f1f2d7
+    m_Address: Assets/Assets/Sprites/UI/Card_Background_Passive.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0c50cee1823580449e7a9945c949cb1
+    m_Address: Assets/Assets/Sprites/Towers/Tower_3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca5a89f7629e5ea46a8c32a9789809a2
+    m_Address: Assets/Assets/Sprites/UI/icons/Archer1_Icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8d0877f063a8ec418144e42721dac2b
+    m_Address: Assets/Assets/ScriptableObjects/Attack_1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db76064e26e1a674bbcaf4a46a00d700
+    m_Address: Assets/Assets/Sprites/UI/icons/Archer3_Icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec503e565e727e84fbc6d0a30c131281
+    m_Address: Assets/Assets/Sprites/Towers/Tower_1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3413f99417ffb8418411e3098e5ef07
+    m_Address: Assets/Assets/Sprites/Projectiles/arrow.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f75fba78556a3314abf21a5369cc92a2
+    m_Address: Assets/Assets/ScriptableObjects/Idle_2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc8dcdae9e4ec7c41a9b206a9b5580f1
+    m_Address: Assets/Assets/ScriptableObjects/Attack_3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c1450f5278a340141a4062bbbbe28ae3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ca10505f60410954d843e80c01185972, type: 2}
+    - {fileID: 11400000, guid: e77668fe042d8a648a785bac131792d6, type: 2}

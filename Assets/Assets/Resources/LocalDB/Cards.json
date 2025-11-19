@@ -1,0 +1,43 @@
+{
+  "cards": [
+    {
+      "CardID": "1",
+      "CardIcon": "Archer1_Icon",
+      "ProjectileSprite": "arrow",
+      "Level": 1,
+      "ManaCost": 5,
+      "Type": "Card_Background_Active",
+      "HorizontalCellsRange": "1",
+      "VerticalCellsRange": "3",
+      "Damage": "1",
+      "FireCooldown": "1",
+      "InitialHp": "10"
+    },
+    {
+      "CardID": "2",
+      "CardIcon": "Archer2_Icon",
+      "ProjectileSprite": "arrow",
+      "Level": 5,
+      "ManaCost": 12,
+      "Type": "Card_Background_Passive",
+      "HorizontalCellsRange": "2",
+      "VerticalCellsRange": "3",
+      "Damage": "1",
+      "FireCooldown": "1",
+      "InitialHp": "10"
+    },
+    {
+      "CardID": "3",
+      "CardIcon": "Archer3_Icon",
+      "ProjectileSprite": "arrow",
+      "Level": 3,
+      "ManaCost": 8,
+      "Type": "Card_Background_Active",
+      "HorizontalCellsRange": "0",
+      "VerticalCellsRange": "3",
+      "Damage": "1",
+      "FireCooldown": "1",
+      "InitialHp": "10"
+    }
+  ]
+}
